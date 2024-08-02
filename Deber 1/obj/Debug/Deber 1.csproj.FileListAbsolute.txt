@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\Proyectos POOll\Deber 1\bin\Debug\Deber 1.exe.config
+C:\Users\Usuario\Documents\Proyectos POOll\Deber 1\bin\Debug\Deber 1.exe
+C:\Users\Usuario\Documents\Proyectos POOll\Deber 1\bin\Debug\Deber 1.pdb
+C:\Users\Usuario\Documents\Proyectos POOll\Deber 1\obj\Debug\Deber 1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Proyectos POOll\Deber 1\obj\Debug\Deber_1.Properties.Resources.resources
+C:\Users\Usuario\Documents\Proyectos POOll\Deber 1\obj\Debug\Deber 1.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Proyectos POOll\Deber 1\obj\Debug\Deber 1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Proyectos POOll\Deber 1\obj\Debug\Deber 1.exe
+C:\Users\Usuario\Documents\Proyectos POOll\Deber 1\obj\Debug\Deber 1.pdb
+C:\Users\Usuario\Documents\Proyectos POOll\Deber 1\obj\Debug\Deber_1.Form_Tareas.resources
